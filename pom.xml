@@ -17,6 +17,13 @@
         <module>httpclientbridgeimpl</module>
     </modules>
 
+    <scm>
+        <connection>scm:git:git://github.com:estebanwasinger/mule-http-client-bridge.git</connection>
+        <developerConnection>scm:git:git@github.com:estebanwasinger/mule-http-client-bridge.git</developerConnection>
+        <url>https://github.com/estebanwasinger/mule-http-client-bridge</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <distributionManagement>
         <repository>
             <id>mulesoft-releases</id>
